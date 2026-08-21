@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DIS-opgaver.iml" filepath="$PROJECT_DIR$/DIS-opgaver.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01 - Intro Datakommunikation/L01 - Intro Datakommunikation.iml" filepath="$PROJECT_DIR$/L01 - Intro Datakommunikation/L01 - Intro Datakommunikation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02 - Applikationslaget/L02 - Applikationslaget.iml" filepath="$PROJECT_DIR$/L02 - Applikationslaget/L02 - Applikationslaget.iml" />
     </modules>
   </component>
 </project>
